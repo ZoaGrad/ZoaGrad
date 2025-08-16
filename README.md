@@ -72,19 +72,6 @@ Ready to use the tools? Begin with:
 
 ---
 
-## 🎯 Recommended Pinned Repositories
-
-For maximum impact, pin these 6 repositories to showcase the full ecosystem:
-
-1. **scarcoin-meta** - The central hub and entry point
-2. **scarcoin-agentnet** - Production-ready AI innovation
-3. **scarwallet-ui** - Polished user experience
-4. **scarcoin-contracts** - Core blockchain foundation
-5. **crownbridge-mythtech** - Flagship cross-chain technology
-6. **consciousness-platform** - Cutting-edge research platform
-
----
-
 ## 🔮 The Technology Stack
 
 ```mermaid
