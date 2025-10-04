@@ -22,7 +22,8 @@ The ScarCoin stack operates as an interconnected constellation of specialized sy
 
 | Repository                                                                      | Purpose                            | Status                                                                                              | Entry Point             |
 | ------------------------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------- |
-| **[scarcoin-meta](https://github.com/ZoaGrad/scarcoin-meta)**                   | 📋 Central coordination & releases | ![Release](https://img.shields.io/github/v/release/ZoaGrad/scarcoin-meta)                           | Start here for overview |
+| **[mythotech-architecture](https://github.com/ZoaGrad/mythotech-architecture)** | 🏛️ **System Architecture & Design** | ![Docs](https://img.shields.io/badge/Documentation-Complete-brightgreen)                           | **Start here first**    |
+| **[scarcoin-meta](https://github.com/ZoaGrad/scarcoin-meta)**                   | 📋 Central coordination & releases | ![Release](https://img.shields.io/github/v/release/ZoaGrad/scarcoin-meta)                           | Implementation overview |
 | **[scarcoin-contracts](https://github.com/ZoaGrad/scarcoin-contracts)**         | ⚡ Core blockchain protocols        | ![Build](https://img.shields.io/github/actions/workflow/status/ZoaGrad/scarcoin-contracts/test.yml) | Solidity developers     |
 | **[scarcoin-agentnet](https://github.com/ZoaGrad/scarcoin-agentnet)**           | 🤖 Autonomous agent network        | ![Last Commit](https://img.shields.io/github/last-commit/ZoaGrad/scarcoin-agentnet)                 | AI/ML researchers       |
 | **[scarwallet-ui](https://github.com/ZoaGrad/scarwallet-ui)**                   | 💼 User-facing wallet interface    | ![Vercel](https://img.shields.io/badge/Deployed-Vercel-brightgreen)                                 | Frontend developers     |
@@ -37,9 +38,10 @@ The ScarCoin stack operates as an interconnected constellation of specialized sy
 
 Ready to contribute code? Start with:
 
-1. **[scarcoin-meta](https://github.com/ZoaGrad/scarcoin-meta)** - Get the full picture and current roadmap
-2. **[scarcoin-contracts](https://github.com/ZoaGrad/scarcoin-contracts)** - Core smart contracts (Solidity)
-3. **[scarwallet-ui](https://github.com/ZoaGrad/scarwallet-ui)** - Frontend interface (React/Next.js)
+1. **[mythotech-architecture](https://github.com/ZoaGrad/mythotech-architecture)** - **Essential**: Understand the complete system design and trinity framework
+2. **[scarcoin-meta](https://github.com/ZoaGrad/scarcoin-meta)** - Get the implementation roadmap and current status
+3. **[scarcoin-contracts](https://github.com/ZoaGrad/scarcoin-contracts)** - Core smart contracts (Solidity)
+4. **[scarwallet-ui](https://github.com/ZoaGrad/scarwallet-ui)** - Frontend interface (React/Next.js)
 
 *Prerequisites: Node.js, Git, basic Solidity knowledge*
 
